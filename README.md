@@ -39,9 +39,6 @@ E-Commerce orientado a un público selecto, el cual es consumidor de vehículos 
 
 **Despliegue 📦**
 
-		•Heroku
-
-**Expresiones de Gratitud 🎁**
-
-Desde la empresa se agradece a todos los colaboradores, las cuales hicieron posible este proyecto. 
+		•Heroku - https://wheels365.herokuapp.com/
+		
 
