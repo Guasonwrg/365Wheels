@@ -6,7 +6,7 @@ El mismo apuntará a dar una copia del proyecto en funcionamiento, describirá l
 ------------
 
 
-## Integrantes 👨‍💻
+# Integrantes 👨‍💻
 
 👨‍ Martin Martincorena, Uruguayo de Paysandú estudiante de UTEC en la carrera LTI (Licenciatura en Tecnología de la Información). Hincha de Peñarol en su tiempo libre le gusta ir al gym.
 
@@ -19,7 +19,7 @@ El mismo apuntará a dar una copia del proyecto en funcionamiento, describirá l
 
  ------------
  
- ## Descripción General 📚
+ # Descripción General 📚
 
 E-Commerce orientado a un público selecto, el cual es consumidor de vehículos de alta gama. 365 Wheels es una empresa que se dedica a la compra y venta de autos nuevos y usados, trabajamos con todas las marcas y modelos. ¡Si lo pide, 365 Wheels lo consigue!
 
@@ -27,9 +27,23 @@ E-Commerce orientado a un público selecto, el cual es consumidor de vehículos 
 
 
 ------------
+
+
+ ## Sitios Basados en Temática 📃 
+
+| Plugin | README |
+| ------ | ------ |
+| Toyota | https://www.toyota.com |
+| Volkswagen | https://www.vw.com|
+| Ferrari | https://www.ferrari.com |
+| Lamborghini | https://www.lamborghini.com |
+| Tesla | https://www.tesla.com |
+
+
+------------
  
  
-## Software utilizado 🛠️📋
+# Software utilizado 🛠️📋
 
 ### Front End	
 | Software | Descripción |
@@ -61,18 +75,6 @@ E-Commerce orientado a un público selecto, el cual es consumidor de vehículos 
 	
 ------------
 
-
-## Sitios Basados en Temática 📃 
-
-| Plugin | README |
-| ------ | ------ |
-| Toyota | https://www.toyota.com |
-| Volkswagen | https://www.vw.com|
-| Ferrari | https://www.ferrari.com |
-| Lamborghini | https://www.lamborghini.com |
-| Tesla | https://www.tesla.com |
-
-------------
 
 # Desarrollo
 
@@ -203,8 +205,8 @@ En este sprint final vemos que podemos enviar y recibir datos de manera eficient
 ------------
 
 
-## Despliegue 📦
+# Despliegue 📦
 
-	**Heroku**  - https://wheels365.herokuapp.com/
+**Heroku**  - https://wheels365.herokuapp.com/
 		
 
